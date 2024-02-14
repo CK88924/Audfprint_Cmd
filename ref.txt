@@ -1,2 +1,6 @@
 參考來源:https://github.com/dpwe/audfprint
 請自行下載ffmpeg等相關.exe https://ffmpeg.org/ https://pypi.org/project/ffmpeg-python/
+
+數據庫位置:tests\data\Music(用於音頻指紋媒體文件)
+
+匹配文件位置:tests\query
