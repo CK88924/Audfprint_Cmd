@@ -1,0 +1,2 @@
+參考來源:https://github.com/dpwe/audfprint
+請自行下載ffmpeg等相關.exe https://ffmpeg.org/ https://pypi.org/project/ffmpeg-python/
